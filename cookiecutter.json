@@ -1,0 +1,7 @@
+{
+  "project_name": "My Jekyll Project",
+  "repo_name": "my-jekyll-project",
+  "author": "Efe Ayhan",
+  "email": "efeayhan@seas.upenn.edu",
+  "description": "Cookiecutter template for Jekyll"
+}
